@@ -7,7 +7,7 @@
 
 - 🧠 I’m exploring how **human energy can be modeled computationally**, using concepts from operations research, behavioral science, and physiology.
 
-- ⚙ Currently learning:
+- 🌱 Currently learning:
   - Optimization & Operations Research (linear programming, simulation, decision systems)
   - AI system design (LLMs, structured prompting, RAG)
   - How to translate research into real, usable products
