@@ -1,11 +1,24 @@
 ## Hi there 👋🏾
 
-- 😄 Pronouns: she/her
-- 👩🏾‍🏫 My Major: Enterprise Technology Integration B.S. (Penn State University)
-- 🔭 I’m currently working on AuraCycle, an AI-powered menstrual health and wellness app that helps women understand their cycles, and access educational resources to support their overall well-being and productivity.
-- 🌱 I’m currently learning how to apply optimization and operations research techniques—like linear programming and network flows—to solve real-world problems with Python.
-- 💬 Ask me about my major in Enterprise Technology Integration and how it blends business, data, and tech.
-- 📫 How to reach me: (https://www.linkedin.com/in/reyna-gowie/)
+- 😄 Pronouns: she/her  
+- 👩🏾‍🎓 Major: Enterprise Technology Integration, B.S. — Penn State University  
+
+- 🔭 I’m currently building **Auralis** — an AI-powered productivity system designed to help ambitious individuals align their work with their biological rhythms, reduce burnout, and make smarter daily decisions.
+
+- 🧠 I’m exploring how **human energy can be modeled computationally**, using concepts from operations research, behavioral science, and physiology.
+
+- ⚙ Currently learning:
+  - Optimization & Operations Research (linear programming, simulation, decision systems)
+  - AI system design (LLMs, structured prompting, RAG)
+  - How to translate research into real, usable products
+
+- 💬 Ask me about:
+  - Enterprise Technology Integration (business + data + tech)
+  - Building Auralis
+  - Using systems thinking to redesign productivity
+
+- 📫 Connect with me:  
+  [LinkedIn](https://www.linkedin.com/in/reyna-gowie/)
 <!--
 **ReynaGowie/reynagowie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
